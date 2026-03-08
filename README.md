@@ -1,6 +1,7 @@
 # Human Activity Recognition using Hidden Markov Models
 
-> Formative Assessment 2 — Machine Learning Techniques II
+> Formative Assessment 2 — Machine Learning Techniques II  
+> *Last updated: March 2026*
 
 This project implements a **Gaussian Hidden Markov Model (HMM)** to classify human physical activities from smartphone accelerometer and gyroscope sensor data.
 

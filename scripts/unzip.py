@@ -1,3 +1,10 @@
+"""
+Data Extraction Utility for Human Activity Recognition Project.
+
+This script processes raw sensor data zip files from the inbox folder,
+merges accelerometer and gyroscope readings, and outputs labeled CSV files.
+"""
+
 import os
 import zipfile
 import pandas as pd
